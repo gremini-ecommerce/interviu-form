@@ -13,6 +13,6 @@ Codul HTML in sine nu ne intereseaza cum arata, nu trebuie sa fie stilizat.
 Implementarea trebuie facuta folosind PHP "pur", fara a folosi un framework.
 Vrem sa vedem ca stapanesti partea de OOP, nu un framework anume.
 
-**Te rugam sa faci un fork la repository iar cand termini sa ne trimiti un link spre codul tau (te rugam sa nu deschizi un pull request) sau sa ne trimiti o arhiva zip.**
+**Te rugam sa descarci proiectul, sa NU faci fork la repository. Te rugam sa ne trimiti o arhiva zip sau un link de github (dar e important sa nu faci fork / sa nu deschizi pull request).**
 
 *Te rugam sa nu ceri ajutorul unui prieten. Daca ne place codul scris de tine o sa avem si un interviu cu screenshare unde va trebui sa scrii alt cod, pornind de la codul existent. O sa ne dam seama daca nu esti tu autorul → nu are sens sa ne pierdem vremea.*
